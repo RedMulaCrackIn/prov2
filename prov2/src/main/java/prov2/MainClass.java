@@ -1,5 +1,7 @@
 package prov2;
-
+/* 
+ * A Comment
+ */
 public class MainClass {
 
 	public static void main(String[] args) {
